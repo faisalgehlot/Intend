@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Intend</string>
+    <string name="button">Button</string>
+    <string name="layout_one">Layout One</string>
+    <string name="button2">Button</string>
+    <string name="layout_two">Layout Two</string>
+</resources>
